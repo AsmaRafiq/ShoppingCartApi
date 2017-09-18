@@ -78,26 +78,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bootstrap\css\bootstrap-grid.css" />
-    <Content Include="bootstrap\css\bootstrap-grid.min.css" />
-    <Content Include="bootstrap\css\bootstrap-reboot.css" />
-    <Content Include="bootstrap\css\bootstrap-reboot.min.css" />
-    <Content Include="bootstrap\css\bootstrap.css" />
-    <Content Include="bootstrap\css\bootstrap.min.css" />
-    <Content Include="bootstrap\js\bootstrap.js" />
-    <Content Include="bootstrap\js\bootstrap.min.js" />
+    <Content Include="CheckOut.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="css\bootstrap.css" />
-    <Content Include="css\easy-responsive-tabs.css" />
-    <Content Include="css\flexslider.css" />
-    <Content Include="css\font-awesome.css" />
-    <Content Include="css\jquery-ui.css" />
-    <Content Include="css\shop-homepage.css" />
-    <Content Include="css\style.css" />
-    <Content Include="css\team.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Images\download.jpg" />
     <Content Include="Images\download.png" />
